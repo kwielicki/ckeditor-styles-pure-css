@@ -1,0 +1,1 @@
+# ckeditor-styles-pure-css
